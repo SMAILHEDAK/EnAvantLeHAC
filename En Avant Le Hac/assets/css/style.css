@@ -1,0 +1,44 @@
+.table{
+	color:#091c3e;
+	background-color:#e0e0e0;
+}
+
+tr.looser{
+	background-color:#808080;
+}
+
+tr.almostLooser{
+	background-color:#b3b3b3;
+}
+
+caption.day{
+	background-color:#e0e0e0;
+}
+
+.theLogo{width:40px;
+	height:40px;
+}
+
+.fa-circle{
+	color:#96c0d1;
+}
+
+.fa-caret-up{
+	color:green;
+}
+
+.fa-caret-down{
+	color:red;
+}
+
+.redCircle{
+	color:red;
+}
+
+.greenCircle{
+	color:green;
+}
+
+.mobV{
+	white-space: nowrap;
+}
